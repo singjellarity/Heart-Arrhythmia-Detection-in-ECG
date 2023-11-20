@@ -22,11 +22,14 @@ Based on the [MIT-BIH Arrhythmia Database](https://www.physionet.org/content/mit
 This repository contains the following:
 - ANN.ipynb
 - CNN.ipynb
-- RNN_LSTM.ipynb
+- RNN_LSTM.ipynb </br>
 All three notebooks contain a short study on the performance of an Artificial Neural Network, Convolutional Neural Network, and Long Short-Term Memory machine learning models on the MIT-BIH Arrhythmia Database. </br>
-- RNN-TinyML-New.ipynb
-Based on the performance of the three machine learning algorithms, the LSTM was chosen to be deployed on our device. This file contains a notebook saving the LSTM model as a TinyML.
+- RNN-TinyML-New.ipynb </br>
+Based on the performance of the three machine learning algorithms, the LSTM was chosen to be deployed on our device. This file contains a notebook saving the LSTM model as a TinyML. </br>
+- ecg_arrhythmia.h
 - ecg_arrhythmia.hdf5
+- x_test.h </br>
+The above files are some of the files deployed to our device. 
 
 
 
